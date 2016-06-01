@@ -1,0 +1,6 @@
+c:\documents\visual studio 2015\Projects\oop3\oop3\bin\Debug\oop3.exe.config
+c:\documents\visual studio 2015\Projects\oop3\oop3\bin\Debug\oop3.exe
+c:\documents\visual studio 2015\Projects\oop3\oop3\bin\Debug\oop3.pdb
+c:\documents\visual studio 2015\Projects\oop3\oop3\obj\Debug\oop3.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2015\Projects\oop3\oop3\obj\Debug\oop3.exe
+c:\documents\visual studio 2015\Projects\oop3\oop3\obj\Debug\oop3.pdb
